@@ -32,17 +32,16 @@ This repository exists primarily as a backup of my desktop configuration, but yo
 ## ❤︎ Tree
 
 .config/hypr/
-- [autostart.lua](./.config/hypr/autostart.lua)
-- [decorations.lua](./.config/hypr/decorations.lua)
-- [env.lua](./.config/hypr/env.lua)
-- [hyprland.lua](./.config/hypr/hyprland.lua)
-- [input.lua](./.config/hypr/input.lua)
-- [keybinds.lua](./.config/hypr/keybinds.lua)
-- [monitors.lua](./.config/hypr/monitors.lua)
-- [noctalia.lua](./.config/hypr/noctalia.lua)
-- [window_rules.lua](./.config/hypr/window_rules.lua)
-- [workspaces.lua](./.config/hypr/workspaces.lua)
-
+- [autostart.lua](./autostart.lua)
+- [decorations.lua](./decorations.lua)
+- [env.lua](./env.lua)
+- [hyprland.lua](./hyprland.lua)
+- [input.lua](./input.lua)
+- [keybinds.lua](./keybinds.lua)
+- [monitors.lua](./monitors.lua)
+- [noctalia.lua](./noctalia.lua)
+- [window_rules.lua](./window_rules.lua)
+- [workspaces.lua](./workspaces.lua)
 
 ## ❤︎ Keybindings
 
